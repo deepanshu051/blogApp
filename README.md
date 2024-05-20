@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 ![alt text](page1.jpg)
+![alt text](page3.jpg)
 
 ![alt text](main.png)
 
